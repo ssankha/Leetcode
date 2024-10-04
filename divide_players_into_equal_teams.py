@@ -72,14 +72,9 @@ class Solution(object):
         
         return chemistry
 
-    
+   
+# test case 
 sol = Solution()
-
-# Example input
 skill = [5,4,1,1,5,2]
-
-# Call the dividePlayers method
 result = sol.dividePlayers(skill)
-
-# Print the result
 print(result)
